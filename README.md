@@ -1,11 +1,5 @@
 <img  style="border-radius: 50%; object-fit: cover;" src="./image/Github-Banner.png" />
 
-## 📊 GitHub Stats
-
-![Shahi's GitHub stats](https://github-readme-stats.vercel.app/api?username=khandakershahi&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khandakershahi&layout=donut&theme=transparent&hide_border=true)
-
 # Hi, I'm Shahi 👋
 
 🚀 **Frontend Web Developer** focused on building fast, modern, and user-friendly web applications.
