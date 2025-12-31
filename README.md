@@ -75,25 +75,7 @@ I enjoy turning designs into clean, scalable code and continuously improving my 
 <img align="right" alt="Coding Animation" width="300"
 src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" />
 
-<!-- Top Languages -->
 
-<img
-  align="left"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=khandakershahi&layout=compact&hide_border=true"
-  alt="Top Languages"
-/>
-
-<br><br><br><br><br><br><br>
-
-<!-- GitHub Stats -->
-
-<img
-  align="left"
-  src="https://github-readme-stats.vercel.app/api?username=khandakershahi&show_icons=true&count_private=true&hide_border=true"
-  alt="GitHub Stats"
-/>
-
-<br><br><br><br><br><br><br><br>
 
 <!-- GitHub Streak -->
 
