@@ -4,7 +4,7 @@
 
 ![Shahi's GitHub stats](https://github-readme-stats.vercel.app/api?username=khandakershahi&show_icons=true&theme=transparent&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khandakershahi&layout=compact&theme=transparent&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khandakershahi&layout=donut&theme=transparent&hide_border=true)
 
 # Hi, I'm Shahi 👋
 
@@ -65,8 +65,8 @@ I work with both **modern JavaScript frameworks** and **WordPress**, creating sc
 ## 📫 Let’s Connect
 
 - 🌐 Portfolio: https://khandakershahi.com
-- 💼 LinkedIn: https://linkedin.com/in/yourusername
-- 📧 Email: your-email@example.com
+- 💼 LinkedIn: https://www.linkedin.com/in/khandaker-shahi/
+- 📧 Email: hello@khandakershahi.com
 
 ---
 
