@@ -107,7 +107,7 @@ src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e5
 
 <hr width="60%">
 
-<h3 align="left">🤝 Connect with me</h3>
+
 
 ---
 
