@@ -70,23 +70,4 @@ I enjoy turning designs into clean, scalable code and continuously improving my 
 
 ---
 
-## 📊 GitHub Stats
-
-<img align="right" alt="Coding Animation" width="300"
-src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" />
-
-<!-- GitHub Streak -->
-
-<img
-  align="left"
-  src="https://streak-stats.demolab.com?user=khandakershahi&hide_border=true"
-  alt="GitHub Streak"
-/>
-
-<br><br><br><br><br><br><br><br><br>
-
-<hr width="60%">
-
----
-
 ⭐️ _Open to job opportunities, freelance work, collaborations, and networking._
