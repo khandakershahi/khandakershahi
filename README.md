@@ -1,67 +1,89 @@
-<img  style="border-radius: 50%; object-fit: cover;" src="./image/Github-Banner.png" />
+<!-- Banner Image -->
+<img src="./image/Github-Banner.png" alt="GitHub Banner" width="100%" />
 
 # Hi, I'm Shahi 👋
 
-🚀 **Frontend Web Developer** focused on building fast, modern, and user-friendly web applications.
-
-I work with both **modern JavaScript frameworks** and **WordPress**, creating scalable, performance-driven websites and web apps. I enjoy turning ideas and designs into clean, functional digital experiences.
+### Frontend Web Developer | Web & Full-Stack Development
 
 ---
 
-## 🧑‍💻 Tech Stack
+## 👨‍💻 About Me
 
-### Frontend
-
-- React.js
-- Next.js
-- Tailwind CSS
-- HTML5, CSS3, JavaScript (ES6+)
-
-### Backend & Database
-
-- Node.js
-- Express.js
-- MongoDB
-- Firebase
-
-### WordPress
-
-- WordPress Development
-- Bricks Builder
-- ACF / ACPT
-- Core Framework
-- Custom Post Types & Templates
-
-### Tools
-
-- Git & GitHub
-- Figma (Design to Code)
-- REST APIs
+I’m a **Frontend Web Developer** with experience building modern, fast, and SEO-friendly web applications.  
+I work with **React, Next.js, Tailwind CSS**, and also have a strong background in **WordPress development**.  
+I enjoy turning designs into clean, scalable code and continuously improving my skills through real-world projects.
 
 ---
 
-## 📌 What I’m Working On
+## 🚀 Current Activities
 
-- Building full-stack projects with **React, Next.js, Express & MongoDB**
-- Creating dynamic WordPress websites with **Bricks + ACF**
-- Improving performance, SEO, and clean UI practices
-
----
-
-## 🎯 Goals
-
-- Grow as a **Frontend / Full-Stack Developer**
-- Work on real-world, impactful products
-- Collaborate with developers and designers
+- 🌱 Exploring **advanced Next.js & full-stack patterns**
+- 🧩 Working on **WordPress & React-based client projects**
+- 🏗️ Building full-stack apps with **Express, MongoDB & Firebase**
+- 🎨 Improving **UI/UX and performance optimization**
 
 ---
 
-## 📫 Let’s Connect
+## 🛠️ Skills
 
-- 🌐 Portfolio: https://khandakershahi.com
-- 💼 LinkedIn: https://www.linkedin.com/in/khandaker-shahi/
-- 📧 Email: hello@khandakershahi.com
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js" />
+</p>
+
+### ⚙️ Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+### 🧱 WordPress
+
+<p>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bricks%20Builder-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ACF%20%2F%20ACPT-0052CC?style=for-the-badge" />
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
+</p>
 
 ---
 
-⭐️ _Open to job opportunities, freelance work, and collaborations._
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://github.com/khandakershahi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://khandakershahi.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=khandakershahi&show_icons=true&count_private=true&hide_border=true" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khandakershahi&layout=compact&langs_count=6&hide_border=true" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=khandakershahi&hide_border=true" />
+</p>
+
+---
+
+⭐️ _Open to job opportunities, freelance work, collaborations, and networking._
