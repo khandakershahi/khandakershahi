@@ -85,6 +85,10 @@ src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e5
   alt="GitHub Streak"
 />
 
+[![Shahi's GitHub stats](https://github-readme-stats.vercel.app/api?username=khandakershahi)](https://github.com/khandakershahi/github-readme-stats)
+
+
+
 <br><br><br><br><br><br><br><br><br>
 
 <hr width="60%">
